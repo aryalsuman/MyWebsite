@@ -130,7 +130,7 @@ setInterval(function () {
         clickjs++;
     }
 
-}, 4000);
+}, 8000);
 
 navbar = document.getElementsByClassName("hoverable");
 for (let i = 0; i < navbar.length; i++) {
